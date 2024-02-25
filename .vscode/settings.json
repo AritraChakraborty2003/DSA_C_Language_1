@@ -1,7 +1,8 @@
 {
     "files.associations": {
         "*html": "html",
-        "stdlib.h": "c"
+        "stdlib.h": "c",
+        "cQueue_array.C": "cpp"
     },
     "C_Cpp.errorSquiggles": "disabled"
 }
