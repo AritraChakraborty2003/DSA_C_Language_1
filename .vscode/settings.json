@@ -2,7 +2,8 @@
     "files.associations": {
         "*html": "html",
         "stdlib.h": "c",
-        "cQueue_array.C": "cpp"
+        "cQueue_array.C": "cpp",
+        "BIN_DEC.C": "cpp"
     },
     "C_Cpp.errorSquiggles": "disabled"
 }
